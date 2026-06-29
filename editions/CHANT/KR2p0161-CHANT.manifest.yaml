@@ -1,0 +1,33 @@
+canonical_identifier: bkk:krp/KR2p0161/CHANT/v1
+canonical_location: https://kanripo.org/bkk/KR2p0161/CHANT/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 民之父母
+  identifiers:
+    krp: KR2p0161
+  tags:
+    kr-categories: KR2p
+  source:
+    repository: tls-texts
+    path: data/tls/KR2p0161.xml
+  edition:
+    short: CHANT
+assets:
+  parts:
+  - {seq: 1, filename: KR2p0161_001-CHANT.yaml, hash: 'sha256:5aeebdbe7b08306b21f3b08336f7f9197f98cb95057dc7ff0f5b466d6bfe1c49'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR2p0161_001-CHANT.markers.yaml, hash: 'sha256:d81d7d6df44582f1f5dbee3cde5df5dfc0ed9469a7bf539568a8e201ed519959'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR2p0161_CHANT_001-1a.1-h
+    span:
+    - body
+    - 0
+    - 454
+  label: 楚竹書四民之父母
+  type: section
+  level: 1
+hash: sha256:60e04a8cab9f1ded8efc172e6df99f94ad53d856be92c31f1b77fd4151bf298c
