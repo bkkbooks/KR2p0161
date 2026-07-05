@@ -16,9 +16,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR2p0161_001.yaml, hash: 'sha256:22c5ca754f2b06a9124afbdb655370faa7670180afbd5e94bad2577a1f47cd0e'}
+  - {seq: 1, filename: KR2p0161_001.yaml, hash: 'sha256:5aeebdbe7b08306b21f3b08336f7f9197f98cb95057dc7ff0f5b466d6bfe1c49'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR2p0161_001.markers.yaml, hash: 'sha256:1c75181c372bf84c560fa7b1296fb642ccd88781cb086382804335701b0e1050'}
+  - {seq: 1, role: markers, filename: assets/KR2p0161_001.markers.yaml, hash: 'sha256:fae42d4adeb799d9bfdbfe115398b05e5ae75b11c4a87da29cbc0182f49c7d7b'}
 table_of_contents:
 - ref:
     seq: 1
@@ -30,7 +30,4 @@ table_of_contents:
   label: 楚竹書四民之父母
   type: section
   level: 1
-hash: sha256:bd8814f18e5f2b42981f815e44ca4c3c0f3efebb40c4dfd64cb46c5d270a2e6d
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:60406684592beb8302d766417081aaf76c55f6df8ece9eee6daae22ef6a813d7
