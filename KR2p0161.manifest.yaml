@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR2p0161/v1
 canonical_location: https://kanripo.org/bkk/KR2p0161/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 民之父母
   identifiers:
@@ -16,9 +16,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR2p0161_001.yaml, hash: 'sha256:5aeebdbe7b08306b21f3b08336f7f9197f98cb95057dc7ff0f5b466d6bfe1c49'}
+  - {seq: 1, filename: KR2p0161_001.yaml, hash: 'sha256:22c5ca754f2b06a9124afbdb655370faa7670180afbd5e94bad2577a1f47cd0e'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR2p0161_001.markers.yaml, hash: 'sha256:fae42d4adeb799d9bfdbfe115398b05e5ae75b11c4a87da29cbc0182f49c7d7b'}
+  - {seq: 1, role: markers, filename: assets/KR2p0161_001.markers.yaml, hash: 'sha256:8f070682f854821a233edc055b7ad39f87e648dc7fbd194917562137de51e17b'}
 table_of_contents:
 - ref:
     seq: 1
@@ -30,4 +30,7 @@ table_of_contents:
   label: 楚竹書四民之父母
   type: section
   level: 1
-hash: sha256:60406684592beb8302d766417081aaf76c55f6df8ece9eee6daae22ef6a813d7
+hash: sha256:6e16c8e269457921ebd3b7c5b3f80291ed4406d2385bdfe4769867e09c5d98ae
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
